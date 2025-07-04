@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab66aa1a.css",
+    "main.js": "/static/js/main.42d8a29c.js",
+    "static/media/Bgnewscard1.svg": "/static/media/Bgnewscard1.3e615028c3a4cffe1934a2c0341a9907.svg",
+    "static/media/Bgnewscard2.svg": "/static/media/Bgnewscard2.31b107956f544a99cf98e6e0bcd96d64.svg",
+    "static/media/Bgnewscard3.svg": "/static/media/Bgnewscard3.2c3df122515491fd9ed34fe1f39c4fb5.svg",
+    "static/media/darsh.jpg": "/static/media/darsh.fb755702c1f42741b32f.jpg",
+    "static/media/jobs.png": "/static/media/jobs.9fc6873522ef74514266.png",
+    "static/media/scholarships.png": "/static/media/scholarships.cbc6fb5472c2c7814049.png",
+    "static/media/network.png": "/static/media/network.dd0486e294c5c553baab.png",
+    "static/media/Error404.png": "/static/media/Error404.fe9de1c8a87d552fa643.png",
+    "static/media/atharva.jpg": "/static/media/atharva.1d5e46dd45b0dbe30cd9.jpg",
+    "static/media/Increff.png": "/static/media/Increff.ba1d2bc57d544f32b583.png",
+    "static/media/Amazon.png": "/static/media/Amazon.306ae9d587ee5514f286.png",
+    "static/media/logo.png": "/static/media/logo.866f8b4059367183fb9b.png",
+    "static/media/TwoCone.png": "/static/media/TwoCone.a296352ed5cf72a5f7a5.png",
+    "static/media/Infosys.png": "/static/media/Infosys.3f1f8802d17b96265efc.png",
+    "static/media/Tcs.png": "/static/media/Tcs.a8d02cd4a9e428e5d79c.png",
+    "static/media/Oracle.png": "/static/media/Oracle.6f601745c52fd05b7149.png",
+    "static/media/Nvidia.png": "/static/media/Nvidia.df0cf2df0292a9d5b907.png",
+    "static/media/Techmahindra.png": "/static/media/Techmahindra.1894114492a90246c10a.png",
+    "static/media/Intel.png": "/static/media/Intel.1742a674ac6aedb51f9e.png",
+    "static/media/Ibm.png": "/static/media/Ibm.88f5be7dbb229d1509f6.png",
+    "static/media/Mahindra.png": "/static/media/Mahindra.6620b087ff23a75e93a6.png",
+    "static/media/Location.svg": "/static/media/Location.1ce3a91c83c5749312d5bbcb6c720c9d.svg",
+    "static/media/Batch.svg": "/static/media/Batch.6f62b7211af5be76b68a5dba18dbd0ee.svg",
+    "static/media/StartDate.svg": "/static/media/StartDate.8de62a5bdca88e038e749971271b1f8f.svg",
+    "index.html": "/index.html",
+    "static/media/Stipend.svg": "/static/media/Stipend.0c67a030807505b8c26efbc3248d5107.svg",
+    "static/media/Clock.svg": "/static/media/Clock.a1f4c80187c738ecb67ce95dc2b7b9df.svg",
+    "main.ab66aa1a.css.map": "/static/css/main.ab66aa1a.css.map",
+    "main.42d8a29c.js.map": "/static/js/main.42d8a29c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab66aa1a.css",
+    "static/js/main.42d8a29c.js"
+  ]
+}
